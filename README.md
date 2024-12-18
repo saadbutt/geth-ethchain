@@ -1,6 +1,6 @@
 # Geth Blacklist Functionality and Configuration
 
-This geth file contains blacklist functionality for testnet
+This geth file contains blacklist functionality for mainnet
 
 ## Overview
 
